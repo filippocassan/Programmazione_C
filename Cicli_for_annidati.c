@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
 
 //Dichiaro le variabili di cui avrò bisogno per il ciclo for
 int i;
@@ -20,5 +21,5 @@ for (i = 0; i < 3; i++){
   printf("\n");  
 }
 
-return 0;
+return (0);
 }

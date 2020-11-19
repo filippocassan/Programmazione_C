@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
 
 //Dichiaro le variabili
 int a, b;
@@ -23,5 +24,5 @@ else if (a < b)
 else 
   printf("I due numeri sono uguali\n");
 
-return 0;
+return (0);
 }

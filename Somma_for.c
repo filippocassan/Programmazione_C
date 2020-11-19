@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
 
 //Dichiaro le variabili e inizializzo la variabile somma
 int numero;
@@ -22,5 +23,5 @@ for (i = 0; i < 10; i++){
 //Stampo a schermo la somma dei 10 numeri inseriti dall'utente
 printf("La somma dei numeri inseriti è: %d", somma);
 
-return 0;
+return (0);
 }

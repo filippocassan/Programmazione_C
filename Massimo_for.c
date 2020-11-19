@@ -1,8 +1,7 @@
 #include <stdio.h>
 
-//Prendere in input n numeri, calcolare e visualizzare il valore massimo.
- 
-int main() {
+int main() 
+{
 
 //Dichiaro le variabili
 int n;
@@ -41,5 +40,5 @@ for (i = 0; i < n; i++){
 //Stampo a schermo il massimo dei numeri inseriti dall'utente
 printf("Il numero massimo inserito è: %d\n", max);
 
-return 0;
+return (0);
 }

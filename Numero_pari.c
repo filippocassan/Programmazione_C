@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
 
 //Dichiaro le variabili
 int a;
@@ -16,5 +17,5 @@ if (a%2 == 0)
 else 
   printf("Il numero inserito è dispari");
 
-return 0;
+return (0);
 }

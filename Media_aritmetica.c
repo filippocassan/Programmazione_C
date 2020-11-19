@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main()
+{
 
 //Dichiaro le variabili
 int n1, n2, n3;
@@ -25,5 +26,5 @@ media = (float)(n1 + n2 + n3)/3;
 //Utilizzo %6.2f per indicare quante cifre voglio precisamente prima e dopo la virgola (in questo caso se ne accettano massimo 6 prima della virgola e 2 dopo la virgola)
 printf("La tua media è: %6.2f\n", media);
 
-return 0;
+return (0);
 }

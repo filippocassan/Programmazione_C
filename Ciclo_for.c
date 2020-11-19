@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
 
 //Dichiaro le variabili
 int i;
@@ -12,5 +13,5 @@ for(i = 0; i < 10; i++){
   scanf("%d", &numero);
 }
 
-return 0;
+return (0);
 }

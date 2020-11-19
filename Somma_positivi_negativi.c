@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
 
 //Dichiaro le variabili e inizializzo le variabili somma_negativi e somma_positivi
 int numero;
@@ -28,5 +29,5 @@ for (i = 0; i < 10; i++){
 printf("La somma dei numeri positivi è: %d\n", somma_positivi);
 printf("La somma dei numeri negativi è: %d\n", somma_negativi);
 
-return 0;
+return (0);
 }

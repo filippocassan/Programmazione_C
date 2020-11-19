@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
 
 //Dichiarare le variabili
 int base, altezza, area;
@@ -19,5 +20,5 @@ area = base * altezza;
 //Stampo a schermo il valore dell'area del rettangolo
 printf("L'area del rettangolo è: %d\n", area);
 
-return 0;
+return (0);
 }

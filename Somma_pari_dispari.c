@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main() 
+{
 
 //Dichiaro le variabili e inizializzo le variabili somma_dispari e somma_pari
 int somma_pari = 0;
@@ -28,5 +29,5 @@ for (i = 0; i < 10; i++){
 printf("La somma dei numeri pari inseriti è: %d\n", somma_pari);
 printf("La somma dei numeri dispari inseriti è: %d\n", somma_dispari);
 
-return 0;
+return (0);
 }
