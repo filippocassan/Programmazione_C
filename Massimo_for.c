@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 //Prendere in input n numeri, calcolare e visualizzare il valore massimo.
-
-int main(){
+ 
+int main() {
 
 //Dichiaro le variabili
 int n;

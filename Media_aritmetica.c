@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int main() {
 
 //Dichiaro le variabili
 int n1, n2, n3;

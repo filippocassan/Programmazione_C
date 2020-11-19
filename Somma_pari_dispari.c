@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int main() {
 
 //Dichiaro le variabili e inizializzo le variabili somma_dispari e somma_pari
 int somma_pari = 0;

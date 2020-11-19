@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int main() {
 
 //Dichiaro le variabili (i e p mi serviranno per il ciclo for)
 int n;

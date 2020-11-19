@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int main() {
 
 //Dichiaro le variabili e inizializzo le variabili somma_negativi e somma_positivi
 int numero;
