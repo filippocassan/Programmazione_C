@@ -15,5 +15,5 @@ for (int i = 1; i <= n; i++)
 
 printf("Il fattoriale di 5 è: %d", f);
 
-return 0;
+return (0);
 }

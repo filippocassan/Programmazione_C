@@ -18,5 +18,5 @@ else
 
 printf("Il MAX è: %d", max);
 
-return 0;
+return (0);
 }
