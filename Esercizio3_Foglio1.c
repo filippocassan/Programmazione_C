@@ -15,6 +15,11 @@ int moltiplicazione;
 float divisione;
 int A, B;
 
+//Avviso l'utente che cosa dovrà fare
+printf("Ora dovrai inserire due numeri.\n");
+printf("Premi invio per continuare\n");
+scanf("input");
+
 //Chiedo all'utente di inserire due numeri
 printf("Inserisci il primo numero: ");
 scanf("%d", &A);
