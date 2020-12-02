@@ -23,7 +23,7 @@ int prodotto;
 int x;
 int y;
 
-//Chiedo all'utente di inserire due numeri
+//Chiedo all'utente di inserire due numeri e li associo a x e y
 printf("Inserisci un numero: ");
 scanf("%d", &x);
 printf("Inserisci un numero: ");

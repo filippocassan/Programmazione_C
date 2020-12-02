@@ -23,7 +23,7 @@ int y = 5;
 incr(&x, 7);
 incr(&x, y);
 
-//Stampo il valore di x dopo queste operazioni
+//Stampo a schermo il valore di x dopo queste operazioni
 printf("%d\n", x);
 
 return (0);
