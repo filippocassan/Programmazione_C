@@ -30,6 +30,17 @@ while(i < dim && !trovato){
 return (min);
 }
 
+int cerca_min_v2(int a[], int dim){
+
+int min = a[0];
+int i = 0;
+
+    for(i = 0; i < dim; i++){
+        if (a[i] < min) min = a[i];
+    }
+return (min);
+}
+
 int main(){
 
 int dim;
@@ -47,6 +58,7 @@ for(i = 0; i < dim; i++){
 }
 
 printf("\nIl valore minimo all'interno dell'array è: %d", cerca_min(a, dim));
+printf("\nIl valore minimo all'interno dell'array è: %d", cerca_min_v2(a, dim));
 
 return (0);
 }
