@@ -2,6 +2,7 @@
 
 //Cercare un valore all'intero dell'array e se viene trovato restituire 1, altrimenti 0
 
+//Definisco la funzione cerca
 int cerca(int a[], int dim, int x){
 
     int trovato = 0;
